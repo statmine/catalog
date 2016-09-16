@@ -2,11 +2,15 @@ library(cbsodataR)
 library(dplyr)
 library(jsonlite)
 
+black_list <- readLines("blacklist.txt")
+
 update_catalog <- function(tl, la="en"){
   catalog <- 
     tl %>% 
-    filter(Language == la) %>% 
-    filter(OutputStatus %in% c("Regulier","Regular")) %>% 
+    filter( Language == la
+          , OutputStatus %in% c("Regulier","Regular")
+          , !(Identifier %in% black_list)
+          ) %>% 
     select(name=Identifier, title=Title, description=Summary, updated=Updated)
   
   catalog %>% 
