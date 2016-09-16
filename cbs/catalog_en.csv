@@ -1,0 +1,625 @@
+"name","title","description","updated"
+"80783eng","Agriculture; crops, livestock and land use by general farm type, region","Agricultural census; crops, livestock, land use and corresponding
+number of holdings by general farm type and region","2016-05-27T02:00:00"
+"80784eng","Agriculture; labour force by region","Agricultural census; number of persons, annual work units 
+and corresponding number of holdings by region","2016-05-27T02:00:00"
+"7100eng","Arable crops; production by region","Area and yield per crop
+Province","2016-03-01T02:00:00"
+"70671ENG","Fruit culture; area fruit orchards, sort fruit","Cultivated area
+Sort fruit","2016-04-07T02:00:00"
+"37738ENG","Vegetables; yield and cultivated area per kind of vegetable","Area and yield per vegetable
+Area, yield, kind of vegetable","2016-04-07T02:00:00"
+"71509ENG","Yield and cultivation area apples and pears per variety and region","yield, cultivation area
+fruit variety, region","2016-04-08T02:00:00"
+"82504ENG","Livestock manure; production, transport and use; key figures","Manure production, nitrogen and phosphate in manure, nitrogen losses
+manure processing, manure exports and manure use","2016-06-30T02:00:00"
+"80274eng","Livestock cattle","Livestock cattle, position of dairy cattle and cattle for fattening
+according to Agricultural Census and Earmark registration","2016-09-16T02:00:00"
+"7373eng","Livestock pigs","Livestock pigs, number of piglets, sows and boars in April and 
+December","2016-09-16T02:00:00"
+"7425eng","Milk supply and dairy production by dairy factories","Milk supply by dairy farms, production of butter, cheese, milk
+powder, concentrated milk and whey powder","2016-09-16T02:00:00"
+"71483eng","Marine and coastal fisheries, fish prices","Auction price fresh fish
+Species and period","2016-05-31T02:00:00"
+"60006eng","Construction industry; productive hours in (non-)residential buildings","Productive hours construction industry
+Residential and non-residential building","2016-07-18T02:00:00"
+"7076eng","Construction; costs of alteration and new buildings, by building phase","Building costs of alteration and new buildings by category of purpose
+by building phase by type of client, type of building and province","2016-08-30T02:00:00"
+"81808ENG","Construction industry; turnover change, index 2010 = 100","Construction industry. Turnover: index 2010 = 100, change. By activity
+(SIC 2008) and company size (all companies, 10 or more employed persons).","2016-09-16T02:00:00"
+"81802ENG","Construction industry; turnover change by company size, index 2010=100","Construction industry. Turnover: index 2010 = 100, change. 
+By activity (SIC 2008) and company size.","2016-08-16T02:00:00"
+"82574ENG","Construction; value added, index 2010 = 100 and changes","Volume changes in construction, compared to the same period of the
+the previous year and volume index figures, 2010 = 100","2016-09-16T02:00:00"
+"70675eng","Consumer prices; rent increase for dwellings since 1959","The average increase of rent since 1959
+ ","2016-09-08T06:30:00"
+"82261ENG","Civil engineering works; Input price index 2010 = 100","Price indices on the basis of 2010 = 100 and changes compared to
+1 year earlier regarding several areas of work.","2016-08-30T02:00:00"
+"81139eng","Civil engineering works; input price index 2000 = 100, from 1979","Price indices on the basis of 2000=100 and changes compared to
+1 year earlier regarding several areas of work.","2016-08-30T02:00:00"
+"81886ENG","House Price Index by type of dwelling; existing own homes; 2010 = 100","Price indices, number sold, changes and average purchase prices
+of existing own homes by type of dwelling.","2016-07-21T09:30:00"
+"81884ENG","House Price Index; existing own homes; 2010 = 100","Price indices, number sold, changes and average purchase prices
+of existing own homes in the Netherlands.","2016-08-22T09:30:00"
+"81885ENG","House Price Index by region; existing own homes; 2010 = 100","Price indices, number sold, changes and average purchase prices
+of existing own homes by region.","2016-07-21T08:00:00"
+"81911ENG","New dwellings; input price indices building costs 2010 = 100","Total building costs, labour and materials
+Input Price Indices and changes compared to one year earlier","2016-08-30T02:00:00"
+"80444eng","New dwellings; input price indices building costs 2000 = 100, from 1990","Building costs, wages and materials
+Input Price Indices and changes compared to one year earlier","2016-08-30T02:00:00"
+"82039ENG","New dwellings; output price indices building costs, 2010 = 100","Output price indices and changes compared to one year earlier
+V.A.T. included and V.A.T. excluded.","2016-07-08T02:00:00"
+"80334eng","New dwellings; output price indices building costs 2000 = 100, since 1914","Building costs new dwellings incl. general costs, profit and risc
+Price indices and changes compared to one year earlier","2016-07-08T02:00:00"
+"70979eng","Price index figures on the production of buildings, price level 2000","Production indices on total output Price construction, new construction 
+of houses, private sector and non-commercial sector.","2016-07-27T02:00:00"
+"82324ENG","Housing costs of households; household, dwelling characteristics ","housing costs
+characteristics household, characteristics dwelling","2016-05-13T02:00:00"
+"83368ENG","Housing costs of households; dwelling characteristics, region","housing costs
+characteristics dwelling, region ","2016-05-13T02:00:00"
+"83163ENG","Rent increase dwellings; type of rental","The average increase of rent for dwellings in The Netherlands by landlord
+ and in- and excluding harmonisation of rents","2016-09-08T06:30:00"
+"83162ENG","Rent increase dwellings; region","Raise of rent by region, raise of rent in- and excluding
+rent harmonisation","2016-09-08T06:30:00"
+"81156eng","Trade and industry; employment and finance per sector, SIC 2008 ","Trade and industry; jobs, labour volume, costs and revenues, results
+Industry, construction, trade, transport, personal and business services","2016-03-17T02:00:00"
+"81850ENG","Continuing vocational training","Continuing vocational training incidence participation intensity costs
+Total","2012-12-13T09:30:00"
+"80393eng","Education; education expenditure and CBS/OECD indicators","Education expenditure and (inter)national indicators. 
+Government, households, companies, foreign, per education sector, % GDP.","2015-12-14T02:00:00"
+"80509eng","Government; expenditure on education and student grants, loans since 1900","Government expenditure on education
+Per education sector, on student grants, loans and allowance, % GDP","2015-12-14T02:00:00"
+"80006eng","In, through and outflow in education","Flow of pupils in education
+Type of school, certified, gender","2011-02-11T02:00:00"
+"03753eng","School size by type of education and ideological basis","Number of schools and pupils in the Netherlands
+School size, type of education and ideological basis ","2012-11-29T02:00:00"
+"81238eng","Netherlands Business survey, region, month","Realisations, expectations and opinions Dutch Business Survey
+Production, turnover, orders, prices, workforce, stocks, ec. climate","2016-08-30T06:30:00"
+"81234eng","Producer confidence; sentiment indicator manufacturing industry, branches","Producer confidence and components
+activity, order books, stocks and branches","2016-08-30T06:30:00"
+"71158eng","Investment climate; broadband subscribers international comparison","Broadband subscribers, types of broadband subscriptions
+Country","2012-04-18T02:00:00"
+"71163eng","Investment climate; capital international comparison","Capital stock and investments
+Countries","2013-02-26T02:00:00"
+"71166eng","Dutch economy international comparison, 1960-2012","GDP and labour productivity, Employed labour force, Quality of life
+Countries, periods","2014-09-22T02:00:00"
+"71162eng","Investment climate; entrepreneurship international comparison","Entrepreneurship, firm turbulence, fast growing enterprises, propensity
+towards entrepreneurship and self - employment rate broken down by region","2013-02-19T02:00:00"
+"71159eng","Investment climate; functioning of government international comparison","State control, online availability of public services, government
+effectiveness, ad hoc and sectoral state support broken down by country","2013-02-05T02:00:00"
+"71156eng","Investment climate; human capital and labour supply internat. comparison","Tertiary education attainment, employed persons and unemployed
+Country","2013-02-05T02:00:00"
+"71155eng","Investment climate; infrastructure international comparison","Efficiency of distribution infrastructure, ICT - infrastructure and
+knowledge infrastructure broken down by country","2013-02-05T02:00:00"
+"71164eng","Investment climate; innovation international comparison","Innovative enterprises, patent applications, turnover of new or improved
+products and employment in high-tech sectors broken down by region","2011-02-28T02:00:00"
+"71161eng","Investment climate; market competition international comparison","Mark-up, barriers to entrepreneurship, trade and investment, employment
+protection legislation and state support broken down by country","2013-02-05T02:00:00"
+"71160eng","Investment climate; macroeconomic conditions international comparison","Inflation, long-term interest rate, gross government debt, imports and
+exports related to GDP and container transport broken down by country","2013-02-12T02:00:00"
+"71167eng","Investment climate; Dutch economy international comparison, 1960-2012","Gross Domestic Product, exports, Foreign Direct Investments, inward,
+Value added in services and population size broken down by region","2011-03-14T02:00:00"
+"71454eng","Investment climate; office rents international comparison, 2001-2013","Office rents and occupancy costs
+Country","2014-09-26T02:00:00"
+"71445eng","Investment climate; old- and young-age dependency, 2000-2050","Young- and old-age dependency ratio (prognoses) broken down by country
+EU and OECD countries, 2000-2050","2014-08-20T02:00:00"
+"71447eng","Investment climate; society, 1990-2013","Job mobility, social benefits, minimum wage
+Countries, periods","2014-09-29T02:00:00"
+"80728eng","Investments by enterprises in industry; expectations and motives","Investments, expectations, motives, enterprises, industry
+Business Sector SBI 2008","2016-06-08T02:00:00"
+"82190ENG","Corporate data; turnover developments (growing and declining ), SIC 2008","Businesses with a growth or decline in turnover
+Business activity and business size","2016-07-20T02:00:00"
+"80066eng","Enterprises with innovation; key figures","Innovators, Innovators with realised innovations, Co-operating
+innovators","2010-07-23T02:00:00"
+"82011ENG","Ultimate control of enterprises in the Netherlands; jobs, wages, SIC 2008","Jobs and wages of employees at enterprises in the Netherlands
+by locus of control and economic activity (SIC 2008)","2014-02-04T02:00:00"
+"82010ENG","Ultimate control of enterprises in the Netherlands; jobs, wages, size class","Jobs and wages of employees at enterprises in the Netherlands 
+by locus of control and enterprise size","2014-02-04T02:00:00"
+"80335eng","ICT use by companies broken down by sector of industry (SIC 2008), 2008","Internal and external networks, ICT applications, ADE, SCM, RFID
+Sector of Industry (SIC 2008)","2011-04-07T02:00:00"
+"80336eng","ICT use by companies by company size, 2008","ICT workers, internal and external networks, software, ADE, SCM, RFID
+Company size","2011-04-07T02:00:00"
+"80337eng","ICT use by companies by sector of industry (SIC 2008) and size of company","Internal and external networks, software, ADE, SCM, RFID
+Sector of Industry (SIC 2008), size of company","2011-04-07T02:00:00"
+"80427eng","E-commerce, purchase and sales at companies; size of company and SIC 2008","E-commerce, electronic purchase value, electronic turnover
+Sector of industry (SIC 2008); size of company","2011-03-24T02:00:00"
+"80439eng","Research and development (R&D); key figures","R&D expenditures: own staff, Full-time equivalents: own R&D staff
+Periods","2012-06-15T09:30:00"
+"81819ENG","Business services; turnover developments, index 2010 = 100","Business services. Turnover: index 2010 = 100, change.
+By activity (SIC 2008).","2016-08-31T02:00:00"
+"81818ENG","Temporary employment agencies; turnover and hours worked, index 2010 = 100","Temporary employment agencies. Turnover and hours worked: index
+2010 = 100, change. By activity (SIC 2008).","2016-08-31T06:30:00"
+"82438ENG","Hairdressers and beauty treatment; turnover development, index 2010 = 100","Hairdressers and beauty treatment; turnover development, index 2010 = 100
+ontwikkeling naar bedrijfsactiviteit. SBI 2008","2016-08-31T02:00:00"
+"81820ENG","Information and communication; turnover developments, index 2010 = 100","Information and communication. Turnover: index 2010 = 100, change.
+By activity (SIC 2008).","2016-08-31T02:00:00"
+"81530ENG","Producer price indices for services (SPPI); index 2010 = 100","price indices commercial services, different branches
+such as transport and storage, IT and architecture","2016-08-15T02:00:00"
+"83112ENG","Institutional investors; investments excluding shares in investment funds","Investments of institutional investors. 
+Institutional investors; shares in Dutch investment funds.","2016-06-30T02:00:00"
+"82827ENG","Institutional investors; investments in property","Pension funds, insurance corporations, investment funds. 
+Direct property, indirect property.","2016-06-30T02:00:00"
+"82826ENG","Institutional investors; property, changes","Institutional investors; property; changes. 
+Purchases; Sales; Other changes.","2016-06-30T02:00:00"
+"82921ENG","Institutional investors; balance sheet","Financial instrument by borrowing or lending party 
+Pension funds, insurance corporations and investment funds.","2016-06-30T02:00:00"
+"82929ENG","Institutional investors; short-term and long-term investments","Investments by type of investment. 
+Pension funds, insurance corporations and investment funds.","2016-06-30T02:00:00"
+"82825ENG","Investments of institutional investors; foreign investments","Foreign investments for each category of investments. 
+Pension funds, insurance corporations, investment funds.","2016-06-30T02:00:00"
+"82962ENG","Financial corporations; balance sheet","Financial corporations; balance sheet, 
+Assets; liabilities; financial corporations.","2016-06-30T02:00:00"
+"83113ENG","Pension funds; investments before and after consolidation","Investments before and after consolidation. 
+Debt securities; other equity and investment fundshares.","2016-06-30T02:00:00"
+"82824ENG","Quarterly figures investments of institutional investors","Total investments; breakdown in terms of percentage by type of investment
+ Pension funds, insurance corporations and investment funds.","2016-06-30T02:00:00"
+"82372ENG","Central government; monthly cash based revenue and expenditure","Monthly cash based revenue and expenditure of the 
+Central Government according to EU directive 2011/85 (Sixpack).","2016-08-31T02:00:00"
+"82823ENG","Government; debt guarantees, off-balance PPP, non-performing loans","one-off and standardised guarantees, adjusted capital value of off 
+balance sheet public private partnerships, government sectors.","2015-10-30T02:00:00"
+"82891ENG","Government participation; public and private corporations","Significant participation (0.01% of GDP) of the government on corporation
+ capital of public and private corporations.","2015-12-24T02:00:00"
+"82593ENG","Main Units of local Government; quarterly revenue and expenditure","Quarterly cash based revenue and expenditure of the Main local 
+Government units according to EU directive 2011/85 (Sixpack).","2016-06-30T02:00:00"
+"82561ENG","Other local Government; quarterly revenue and expenditure","Quarterly cash based revenue and expenditure of the Other local 
+Government units according to EU directive 2011/85 (Sixpack).","2016-06-30T02:00:00"
+"82892ENG","Public corporations; liabilities, controlling government sector","Debt of financial or other (loss or profit making) corporations 
+by controlling government subsector.","2015-12-24T02:00:00"
+"82373ENG","Social Security Funds; revenues and expenditures","Monthly cash based revenue and expenditure of the 
+Social Security Funds according to EU directive 2011/85 (Sixpack).","2016-08-31T02:00:00"
+"82560ENG","Government Finance Statistics; key figures","Revenue and expenditure, net balance and debt of the general government 
+sector, in million euros and as a pecentage of GDP.","2016-07-28T02:00:00"
+"80518ENG","Trust in others, law and politics; European comparison","Trust of citizens from European countries in people and organisations
+EP, UN, police, legal system and political parties by characteristics","2014-05-19T02:00:00"
+"81452ENG","Deaths; accidents, residents","Dutch residents died in the given year due to an accident
+mainly traffic accidents, accidental falls, drowning or poisoning","2016-08-30T02:00:00"
+"7233ENG","Deaths; cause of death (extensive list), age and sex","Number of deaths in the population of the Netherlands by main underlying
+cause of death (extensive list of ‘three digit codes’), by age and sex","2016-06-30T02:00:00"
+"81453ENG","Deaths; murder and manslaughter, crime scene in The Netherlands","Persons died as a result of murder or manslaughter by location and method
+crime scene located in the Netherlands (residents or non-residents)","2016-07-29T02:00:00"
+"7052eng","Deaths; underlying cause of death (shortlist), sex, age","Deaths among the Dutch population by main primary causes of death,
+age (at time of death) and sex","2016-06-30T02:00:00"
+"7022eng","Deaths; suicide (residents), various themes","Victims of suicide by marital status, method, motives, age and sex
+among the Dutch population, absolute figures and per 100 000 persons","2016-07-19T02:00:00"
+"81655ENG","Deaths by medical end-of-life decision; age, cause of death ","Deaths by medical end-of-life decision, age and cause of death
+ ","2012-07-12T02:00:00"
+"83073ENG","Health expenditure; functions and financing for international comparisons","Health accounts; functions and financing, 
+with link to Dutch health and social care accounts","2016-05-19T02:00:00"
+"83074ENG","Health expenditure; providers and financing for international comparisons","Health Accounts; providers and financing, 
+with link to Dutch Health and Social Care Accounts","2016-05-19T02:00:00"
+"83072ENG","Health expenditure; providers and functions for international comparisons","Health accounts; providers and functions, 
+with link to Dutch health and social care accounts","2016-05-19T02:00:00"
+"80511ENG","Practices of health practitioners; finance","Practices of general practitioners, dentists, orthodontists, 
+physiotherapists, midwifes and remedial therapists","2016-07-22T02:00:00"
+"81071ENG","Persons with dispensed medicines; age and sex","Persons to whom medicines were dispensed by medicine group (ATC), age and
+sex in absolute figures and as percentage of the total population","2016-04-15T02:00:00"
+"81072ENG","Persons with dispensed medicines; origin and generation","Persons to whom medicines were dispensed by origin/generation, medicine
+group, age, sex in absolute figures and as percentage of total population","2016-04-15T02:00:00"
+"83005ENG","Health and health care; personal characteristics","Health, chronic disorders, use of health care
+sex, age, eduational level, ethnicity, income level","2016-06-16T02:00:00"
+"71950eng","Health expectancy; since 1981","Health expectancy, healthy life expectancy, perceived health, physical
+limitations, chronic or longstanding morbidity, mental health","2016-08-23T02:00:00"
+"83021ENG","Life style and (preventive) health examination; personal characteristics","Smoking, alcohol and drug use, being overweight, physical activity, 
+sexual health, nutrition, health examination, giving informal care.","2016-04-13T06:30:00"
+"81177eng","Lifestyle, preventive screening; personal characteristics; 2010-2013","Smoking, alcohol consumption, overweight, height, weight, 
+contraceptive pill use and preventive screening.","2016-04-05T02:00:00"
+"81175eng","Lifestyle, preventive screening; sex,age; 2010-2013","Smoking, alcohol consumption, overweight, height, weight, 
+contraceptive pill use, preventive screening, age and sex.","2015-06-25T02:00:00"
+"03799eng","Health, lifestyle, use of medical facilities","Medical consumption, health and disorders, physical impediments
+and lifestyle by characteristics of the consumer.","2012-01-06T02:00:00"
+"7042eng","Use of medical facilities; 1981-2009","Use of medical facilities, visits to the GP, medical specialist, 
+dentist, physiotherapist, alternative healers, hospital admissions, ","2011-11-23T02:00:00"
+"81505ENG","Wellbeing; alterations in marital status and employment situation,1998/2009","Happiness, satisfaction with life,
+Alterations in marital status and employment situation","2012-10-15T02:00:00"
+"81628ENG","Health, lifestyle, health care use and supply, causes of death; key figures","Birth, death, life expectancy, health and disease, use of health care 
+services, education and labour market, costs of care, care providers","2016-06-30T02:00:00"
+"81451ENG","Health care institutions; key figures, finance and personnel","Profit-and-loss account, balance sheet, personnel, hospitals, youth care
+nursing homes and home care, mental health care, care for the disabled ","2016-06-14T02:00:00"
+"37852eng","Health, lifestyle, health care use and supply, causes of death; from 1900","Health status, lifestyle, use of health care services, 
+care supply, (healthy) life expectancy and causes of death","2016-01-18T02:00:00"
+"7388eng","Consumer confidence, economic climate and willingness to buy","Consumer confidence, economic climate, willingness to buy, consumers' 
+attitudes and expectations.","2016-08-18T06:30:00"
+"60046eng","Expenditure brief (level 3); by household characteristics","Average spendable amount, household characteristics and distribution
+channels by expenditure of households (level 3)","2011-09-14T02:00:00"
+"70076eng","Spending; consumption household","Changes, indices, shares, value of consumption of households 
+by type of goods and services.","2016-08-18T06:30:00"
+"70017eng","International trade; import and export key figures","Key figures import and export of goods by value; 
+classification according to SITC (sections) and countries (groups).","2016-09-12T06:30:00"
+"81202eng","International trade; Dutch export specialisation with respect to the EU-15","Balassa-index, share total exports, exports of Ducht products, re-exports
+Chapters of the Harmonised System and periods","2015-11-06T02:00:00"
+"82007ENG","International trade and transit trade; value and weight, product group","International trade, transport, transit trade
+Continents, NSTR chapters, flow types, value and weight","2016-02-11T02:00:00"
+"7137eng","International trade; imports and exports, SITC (3 digit), country (groups)","Imports and exports value of goods; according to SITC classification 
+(3 digit) and country (groups).","2016-08-31T09:30:00"
+"82616ENG","International trade; Imports and exports of services by country, quarter","Imports; exports; services broken down into various types of services
+Countries","2016-06-15T02:00:00"
+"80414eng","International trade; Imports and exports of services by country, 2003-2013","Imports; exports; services broken down into various types of services
+Countries","2014-09-18T02:00:00"
+"82605ENG","Imports/exports; change of ownership; volume and price, changes ","Imports and exports of goods
+Index figures and changes","2016-09-12T06:30:00"
+"82606ENG","Terms of trade in goods, index 2010=100 ","Terms of trade, import price and export price of goods    
+Indexfigures, base year 2010=100 and changes","2016-09-12T06:30:00"
+"82578ENG","Compensation of employees, economic activity; national accounts","Compensation of employees, wages, labour volumes of employees
+economic activities, full-time and part-time jobs","2016-06-24T06:30:00"
+"82577ENG","Compensation of employees, quarterly; national accounts","Compensation of employees, wages, jobs (by sex) , fte, hours worked
+quarterly, economic activity","2016-08-12T09:30:00"
+"81431ENG","Employment; jobs, wages, working hours; key figures","Jobs, working hours and wages broken down by economic activity and cha-
+racteristics job, employee and company.","2016-09-15T02:00:00"
+"82579ENG","Employment, economic activity, sex; national accounts","Employed persons, jobs, full-time equivalents (fte), hours worked,
+economic activity, sex, employees and self-employed persons","2016-06-24T06:30:00"
+"81464ENG","Employment; sex, type of employment contract, employee characteristics, cao","Jobs, working hours and wage broken down by men and women, type of 
+employment contract, caosector, age and nationality.","2016-09-06T02:00:00"
+"81434ENG","Employment;sex,type of employment contract,employee characteristics,SIC2008","Jobs and working hours broken down by economic activity, sex, 
+charateristics of employee and job.","2016-09-15T02:00:00"
+"81463ENG","Employment; sex,type of employment contract,job characteristics,cao-sector","Jobs, working hours and wag broken down by sex, type of employment co-
+tract, cao-sector and job characteristics.","2016-09-06T02:00:00"
+"81433ENG","Employment; sex; type of employment contract, job characteristics, SIC2008 ","Jobs and working hours broken down by economic activity and 
+characteristics of employees and job.","2016-09-15T02:00:00"
+"82575ENG","Employment, quarterly; national accounts","Employed persons, jobs, hours worked, also with seasonal correction
+employee or self-employed, economic activity","2016-08-12T09:30:00"
+"81432ENG","Employment; sex; type of employment contract, size of company, SIC2008","Jobs and working hours broken down by economic activity
+and information about employee and company.","2016-09-15T02:00:00"
+"81462ENG","Employment; sex, type of employment contract, size of company, cao-sector","Jobs and working hours broken down by cao-sector, sex, size of company
+and type of employment contract","2016-09-06T02:00:00"
+"80857eng","Vacancies (new and filled); government and education","Vacancies, new vacancies and filled vacancies
+eight government sectors","2016-08-12T09:30:00"
+"80474eng","Vacancies; seasonally adjusted","Vacancies; seasonally adjusted
+by economic activities (SIC 2008), particuler firms and government","2016-08-12T09:30:00"
+"80472eng","Vacancies; SIC 2008; private firms and government sectors","Unfilled vacancies, new vacancies and filled vacancies
+by economic activities (SIC 2008), including government","2016-08-12T09:30:00"
+"80473eng","Vacancies;SIC 2008;private sector","Unfilled vacancies, new vacancies and filled vacancies
+by economic activities (SIC 2008), private firms","2016-08-12T09:30:00"
+"80479eng","Monthly labour participation and unemployment (12-hours threshold)","Employed, unemployed, not included in the labour force, unemployment
+by sex and age","2016-09-15T07:30:00"
+"80590eng","Monthly labour participation and unemployment ","Employed, unemployed and not included in labour force according to 
+international definition by sex and age","2016-09-15T07:30:00"
+"71882eng","Labour force; since 1800 by personal characteristics (12-hours threshold)","Labour force, gross and net labour participation, unemployment
+by sex, age, education and origin","2015-03-18T02:00:00"
+"70066eng","Average periods school-leavers to find job by level of education","Average periods needed school - leavers to find job 
+by level of education","2009-10-26T02:00:00"
+"82838ENG","Cao wages, contractual wage costs and working hours; index (2010=100)","Cao wages, contractual wage costs and working hours, Index fig. 2010=100
+monthly, SIC 2008","2016-09-01T02:00:00"
+"82679ENG","Labour price index; index figures 2010=100; National Accounts","Labour price index; wage costs per hour worked
+Branches SIC 2008","2016-07-25T02:00:00"
+"37789eng","Key figures, number of benefits by type","Number of social security benefits and sick leave percentages.
+Total number of benefits","2013-05-01T02:00:00"
+"7101eng","Art education for amateurs; teaching hours","Biennial survey art training by number of staff, teaching hours,
+institutions, receipts and costs. by type of art training","2009-06-23T02:00:00"
+"70077eng","Professional performing arts; capacity, performances, attendance, region","Performing arts; theatres and halls/stages, capacity, performances
+Region","2015-12-31T09:30:00"
+"70763eng","Public libraries","Number of libraries, collection of volumes, volumes lent out, users
+Type of collection, operating costs and revenues","2016-07-22T02:00:00"
+"7083eng","Sports clubs and schools; members, operating costs and revenues","Sports clubs and sports schools
+Members, operating costs and revenues","2010-01-15T09:30:00"
+"70256eng","Sports clubs; staff, costs and revenues, membership, use of facilities","Staff, costs and revenues, membership, use sports facilities, volunteers
+Type of sports club and period","2013-06-10T02:00:00"
+"7193eng","Sports facilities; types and use","Swimming pools, indoor sports facilities, outdoor sports facilities
+Period","2013-06-03T15:00:00"
+"83466ENG","Tourism; key indicators, National Accounts","Tourism, contribution to the Dutch economy, key indicators.
+Employment, value added and expenditures in the tourism industry.","2016-08-19T02:00:00"
+"82671ENG","Tourist expenditure; National Accounts","Tourism expenditure. Expenditures outbound, inbound and domestic tourism.
+Expenditures outbound tourism, inbound tourism and domestic tourism.","2016-08-19T02:00:00"
+"7508eng","Amusement and theme parks; visitors, staff, costs and revenues","Number of amusement and theme parks, visitors, staff, costs, revenues
+period, costs, revenues, visitors","2012-02-15T09:30:00"
+"70220eng","Day trips by characteristics","Day trips, sunbathing, swimming, sports, visit to amusement park, etc.,
+recreational shopping, going out","2009-08-03T02:00:00"
+"82621ENG","Hotels; business related overnight stays, region","Business related overnight stays in hotels, motels, boarding houses,
+apartments with hotel services, youth accommodation and b&b by region","2016-09-14T02:00:00"
+"82061ENG","Hotels; guests, overnight stays, country of residence, region","Busisness related overnight stays in hotels, motels, boarding houses, 
+apartments with hotel services, youth accommodation and b&b by region","2016-09-14T02:00:00"
+"60029eng","Leisure activities","Participation; sports, hobbies, culture, recreation, going out,
+use of the media and holidays by personal characteristics","2012-03-27T02:00:00"
+"82062ENG","Overnight accommodation; capacity, type of accommodation, beds, region","Number of establishments, sleeping places (beds) and rooms
+of overnight accommodation by type of accommodation and region","2016-09-14T02:00:00"
+"82059ENG","Overnight accommodation; guests, country of residence, type, region ","Guests, overnight stays in hotels, holiday parks, groupaccommodation and
+on camp sites by type of accommodation, regio and country of residence","2016-09-14T02:00:00"
+"82058ENG","Overnight accommodation; guests, overnight stays, occupancy, key figures","Guests, overnight stays, occupancy in hotels, holiday parks, 
+groupaccommodation and on camp sites by type of accommodation","2016-09-14T02:00:00"
+"60027eng","Participation in social activities","Participation; contacts, personal situation, church,
+volunteer work by personal characteristics.","2012-03-23T02:00:00"
+"82219ENG","Overdrafts on current accounts","Overdrafts. 
+Current accounts.","2016-08-30T02:00:00"
+"7116eng","Savings","Deposits redeemable at notice - and with agreed maturity; 
+Balance, mutations number of and interest payments.","2016-08-30T02:00:00"
+"03744eng","Stocks: Market value on EURONEXT Amsterdam","Total value of shares quoted at the stock exchange, 
+divided by sector and industry.","2016-08-30T02:00:00"
+"82262ENG","Approaches of domestic product (GDP); National Accounts","Data on the output components, final expenditure categories
+and income components of the Dutch GDP","2016-06-24T06:30:00"
+"82239ENG","Contribution final expenditure to volume growth of GDP; National Accounts","Contribution to volume growth GDP by expenditure components
+Annual data","2016-06-24T06:30:00"
+"82602ENG","GDP, production and expenditures; changes, Quarterly National Accounts","Quarterly data on production, expenditures, income and external economic
+transactions. Value, volume and price changes","2016-08-12T09:30:00"
+"82601ENG","GDP, production and expenditures; value, Quarterly National Accounts","Quarterly data on production, expenditures, income and external economic
+transactions. Values at current prices and chainlinked volume 2010 prices","2016-08-12T09:30:00"
+"82599ENG","Gross fixed capital formation by destination; National Accounts","Gross fixed capital formation by destination
+Economic activities conform Standard Industrial Classification 2008 (SIC)","2016-06-24T06:30:00"
+"82600ENG","Gross fixed capital formation by type and by sector; National Accounts","Gross fixed capital formation by type of capital good on owner basis and
+by institutional sectors","2016-06-24T06:30:00"
+"83071ENG","Final consumption expenditure by purpose; National Accounts","Final consumption expenditure by purpose
+Purposes conform COICOP classification","2016-06-24T06:30:00"
+"83069ENG","Final consumption by type of goods and services; National Accounts","Final consumption expenditure
+Type of goods and services","2016-06-24T06:30:00"
+"83088ENG","Exports of goods and services by origin; National Accounts","Exports of goods and services by origin
+Economic activiries by origin","2016-06-24T06:30:00"
+"82604ENG","Gross fixed capital formation in tangible assets; year-on-year-changes","Fixed capital formation in tangible assets
+Year on year volume changes","2016-08-19T06:30:00"
+"83087ENG","Imports of goods and services by destination; National Accounts","Imports of goods and services
+Economic activities and final expenditure","2016-06-24T06:30:00"
+"82572ENG","Output and income by activity; National Accounts","Output, intermediate consumption, value added and income components
+Standard Industrial Classification 2008 (SIC 2008)","2016-06-24T06:30:00"
+"83068ENG","Supply and use by products of activity; National Accounts","Supply and use by products of activity
+Groups of products of activity (CPA)","2016-06-24T06:30:00"
+"83128ENG","Waste balance, key figures; national accounts","Waste by categories
+Origin and destination of waste","2015-07-24T02:00:00"
+"83300ENG","Emissions to air by the Dutch economy; national accounts ","emissions to air, climate change, greenhouse gases, CO2, ozone layer
+air pollution, acidification, environmental accounts, ","2016-01-19T02:00:00"
+"82955ENG","Environmental accounts; emissions to water, origin and destination","Emissions of heavy metals and nutrients
+Emissions of industries and households, different types of destination","2015-01-30T02:00:00"
+"82238ENG","Environmental accounts; energy use by companies and households","Energy use by companies and households in the Dutch economy
+Energy, Energy use, Energy accounts Dutch economy, Energy supply","2015-01-19T02:00:00"
+"83154ENG","Environmental goods and services sector, activities; national accounts","Environmental activities, environmental domain, environmental services
+EGSS, environmental sector, recycling","2016-08-25T02:00:00"
+"83155ENG","Environmental Goods and Services Sector, industries; national accounts","Environmental sector by economic activity and per environmental domain
+Environmental protection, Resource management and Economic activity","2016-08-25T02:00:00"
+"82725ENG","Environmental taxes and fees, revenues by taxpayer; national accounts","environmental taxes, environmental fees, waste tax, fuel tax, excise duty
+tax payers, tax revenues, sewerage charges, mobility tax","2016-08-10T02:00:00"
+"83180ENG","Extraction, import and export of materials; national accounts","material flow accounts, environmental accounts, biomass, minerals, metals
+resources, semi-finished products, finished products, fossil energy","2016-02-03T02:00:00"
+"83177ENG","Extraction, import and export of materials by continent; national accounts","Material flow accounts, environmental accounts, biomass, minerals, metals
+biomassa, metalen, mineralen, materiaalstromen, grondstof, halffabrikaat","2016-02-03T02:00:00"
+"82539ENG","Natural gas and oil reserves on the Dutch territory; national accounts","Natural gas and oil reserves on the Dutch territory
+Opening stock, new discoveries, extraction and other changes","2016-09-16T02:00:00"
+"83126ENG","Waste balance, kind of waste per sector; national accounts","Waste by categories
+Origin and destination of waste","2015-07-24T02:00:00"
+"82883ENG","Water use; industry and total private households","Tap water use, groundwater, surface water, industries, private household.
+Water use or abstraction by industry and type of water","2014-11-18T02:00:00"
+"82640ENG","Capital stock; national accounts","Capital stock; volume changes
+SIC 2008; institutional sectors and asset types","2016-07-12T02:00:00"
+"83193ENG","Growth accounts; national accounts","Productivity; labour; capital; growth accounts
+SIC 2008","2015-12-30T05:30:00"
+"82801ENG","Regional key figures; national accounts","GDP, GDP per capita, Value added, Compensation of employees, Labour input
+Region","2015-10-20T02:00:00"
+"82800ENG","Economic growth, GDP and value added volume changes; national accounts","GDP volume changes; Value added volume changes by economic activity
+Value added volume changes by SIC 2008; Region","2016-04-21T06:30:00"
+"82934ENG","Fixed capital formation by industry, SIC2008, region; national accounts","Fixed capital formation by Industry (SIC 2008)
+SIC 2008, Region","2016-02-15T02:00:00"
+"82935ENG","Fixed capital formation by type of capital good, region; national accounts","Fixed capital formation by type of capital good
+Dwellings, non-residential buildings, civil engineering works, machinery","2016-02-15T02:00:00"
+"82797ENG","Production process, economic activity, region; national accounts","Output; Gross value added; Labour input
+Economic activity (SIC2008); Region; Periods","2016-02-24T02:00:00"
+"82936ENG","Income accounts of the sector households, region; national accounts","Transactions of the sector households and per capita
+Primary and secundary income distribution by region","2016-03-16T02:00:00"
+"82594ENG","Key figures by sector; National Accounts","Sector accounts; key figures
+Most important  figures of institutional sectors","2016-06-24T06:30:00"
+"82958ENG","Income, consumption, wealth of households: key figures; National Accounts","Keyfigures on income, expenditure and net worth of households
+Source of income, living situation, household composition, age and income","2016-06-01T02:00:00"
+"82596ENG","Financial balance sheets and transactions by sectors; National Accounts","Financial balance sheets and transactions by economic sectors
+Sectors, balance sheets, assets and liabilities","2016-06-24T06:30:00"
+"83205ENG","Financial instruments: From-whom-to-whom matrices; National Accounts","Financial transactions between economic sectors
+Sectors, balance sheets and transactions","2016-06-24T06:30:00"
+"82959ENG","Income distribution of households; National Accounts","Income distribution of different household groups in the Netherlands
+Source of income, living situation, household composition, age and income","2016-06-01T02:00:00"
+"82643ENG","Macroeconomic scoreboard","Macroeconomic imbalances; macroeconomic risks; macroeconomic scoreboard; 
+European Union; Quarter.","2016-07-08T02:00:00"
+"82641ENG","Non-financial balance sheets; national accounts","Non financial balance sheets; volume changes
+fixed assets; land; oil and gas reserves; consumer durables","2016-07-12T02:00:00"
+"82595ENG","Current transactions by sector; National Accounts","Current transactions and balancing items of institutional sectors
+Sectors, resources and uses, balancing items","2016-06-24T06:30:00"
+"82960ENG","Wealth distribution of households; National Accounts","Wealth distribution of different household groups in the Netherlands
+Source of income, living situation, household composition, age and income","2016-06-01T02:00:00"
+"82265ENG","Structure national net lending/borrowing; National Accounts","Structure of national net lending/borrowing
+Annual data","2016-06-24T06:30:00"
+"37281eng","Energy balance sheet; key figures","Coal and products, crude oil feedstocks and products, other commodities
+Indigenous production, im- and exports, bunkers, stock changes","2016-07-06T02:00:00"
+"83141ENG","Energy consumption; components, branch","Energy consumption, supply, transformation, final consumption, delivery
+Energy commodities, natural gas, electricity, renewable, oil, companies","2016-07-06T02:00:00"
+"83140ENG","Energy balance sheet; supply, transformation and consumption","Energy, supply, transformation, consumption, final consumption
+Natural gas, electricity, petroleum, hard coal, renewable energy, heat","2016-07-06T02:00:00"
+"80324eng","Energy; consumption and producer prices by energy commodity","Domestic energy consumption and producer price index for total energy
+commodities, natural gas, crude oil, hard coal, electricity and other","2016-08-16T02:00:00"
+"71554eng","Coal and coal products; indigenous production, imports, exports; from 1802","Indigenous production, imports and exports and supply of coal and output
+of patent fuel, coke oven cokes and gas works gas","2016-07-06T02:00:00"
+"83325ENG","Crude balance sheet; supply, consumption and stock ","Crude; supply and consumption
+Crude balance sheet; supply, consumption and stock","2016-08-24T02:00:00"
+"37621eng","Hard coal balance sheet; supply and consumption","Imports, exports, stock change and consumption by power plants
+and manufacturing","2016-07-15T02:00:00"
+"00372eng","Natural gas balance sheet; supply and consumption","Indigenous production, imports, exports, stock change, consumption 
+via grids and for extraction, flaring and venting.","2016-07-21T02:00:00"
+"83403ENG","Petroleum products balance sheet; supply, consumption and stock"," Petroleum product supply and consumption 
+Petroleum products balance sheet; supply, consumption and stock","2016-08-24T02:00:00"
+"00377eng","Electricity balance sheet; supply and consumption","Central and decentral production, imports, exports, consumption,
+via national and industrial grids, grid losses.","2016-07-15T02:00:00"
+"80030eng","Electricity and heat; production and input by energy commodity","Production of electricity and heat, input of energy commodities
+Central/decentral production, energy commodities","2016-07-08T02:00:00"
+"37823eng","Electricity; production and means of production","Production of electricity and heat. Input of fuels. Installed capacity.
+By sector, installation type and Combined Heat and Power.","2016-07-07T02:00:00"
+"81528ENG","Energy consumption private dwellings; type of dwelling and regions","Average consumption of gas and electricity, type of dwelling, district
+heating by region","2016-07-21T02:00:00"
+"82375ENG","Energy consumption households; energy commodities","Energy consumption of hard coal, lignite, petroleum products, natural gas
+Gas/diesel oil, electricity, waste","2016-06-17T02:00:00"
+"83374ENG","Energy intensities of buildings in the services sector; floor area","Energy intensities services by floor area
+gas electricity servivces sector floor area","2016-03-11T05:30:00"
+"83376ENG","Energy intensities of buildings in the services sector; construction period","Energy intensities services by contrcuction period
+Gas electricity sector construction period services ","2016-03-11T05:30:00"
+"80101eng","Motor fuels for transport; deliveries by petajoule, weight and volume","Deliveries for final consumption and bunkers of motor fuels for road
+transport, water transport and air transport","2016-08-30T02:00:00"
+"82117ENG","Natural gas, electricity; supplies national grid to construction, services","Supplies natural gas and electricity, public grid
+Companies, SIC 2008","2016-06-17T02:00:00"
+"82538ENG","Supplies natural gas, electricity, public grid; companies, SIC 2008, region","Supply of natural gas and electricity, public grid
+Companies, provinces, municipalities","2016-07-07T02:00:00"
+"37215eng","Steam coal; import price from non EU-countries","Import price steam coal non EU-countries
+Import price, net calorific value","2016-06-17T02:00:00"
+"71456eng","Liquid biofuels for transport; supply, consumption and blending","Supply, consumption and blending of biofuels
+broken down into biogasoline and biodiesel.","2016-06-30T02:00:00"
+"83109ENG","Renewable energy; final use and avoided use of fossil energy","Avoided use of fossil primary energy and avoided emission of CO2
+wind, solar, hydro, geothermal energy, aerothermal heat and biomass","2016-06-30T02:00:00"
+"70802eng","Wind energy; electricity production, capacity and supply of wind by month","Production of electricity, capacity and supply of wind
+On land/ off shore","2016-09-14T02:00:00"
+"81810ENG","Industry; production and sales, changes and index (2010=100)","Indexfigures and changes of production, total turnover, domestic 
+and foreign turnover in the industry by sectors and branches (SIC2008)","2016-09-08T06:30:00"
+"81984ENG","Manufacturing; stocks of finished goods, 2010 = 100","Index figures and changes of stocks of finished goods in manufacturing 
+(SIC 2008)","2016-08-30T06:30:00"
+"82444ENG","New orders manufacturing; SIC 2008, index 2010=100, 2005-2013","Indexfigures and changes of received orders, total, domestic and foreign,
+ in the manufacturing industry sectors and branches (SIC2008)","2014-05-09T02:00:00"
+"37221eng","Emissions to air on Dutch territory; totals","Air pollution, total actual emissions in the Netherlands
+Stationary and mobile sources, by source category","2016-09-15T02:00:00"
+"70946eng","Emissions of greenhouse gases according to IPCC guide-lines","Dutch greenhouse gas emissions, calculated according to
+the IPCC directives, by source category","2016-09-15T02:00:00"
+"80448eng","Emissions to air on Dutch territory; mobile sources","Air pollution, emissions and emission factors of mobile sources
+Road traffic, inland shipping, railways, aviation, navigation, machinery.","2016-09-15T02:00:00"
+"70947eng","Emissions of air polluting substances according to NEC guide-lines","Air pollution, Dutch emissions calculated according to
+the European Union 'NEC' directive. By source category.","2016-09-15T02:00:00"
+"7063eng","Emissions to air on Dutch territory; road traffic","Air pollution, emissions and emission factors of road traffic by
+vehicle category, fuel type and road type","2016-09-15T02:00:00"
+"83390ENG","Emissions to air on Dutch territory; stationary sources","Air polluting substances and greenhouse gases
+Refineries, electricity and gas supply, industry, private households","2016-09-14T02:00:00"
+"82861ENG","Environment costs and -expenditure; enterprises > 10 employees; key figures","Investments and net annual costs of environmental measures
+Mining and quarrying, Manufacturing and Public utilities","2016-08-10T02:00:00"
+"7467eng","Municipal waste; quantities","Amount of waste collected by the municipal authorities broken down by
+province, size class and degree of urbanization","2016-07-26T02:00:00"
+"7477eng","Urban waste water treatment per province and river basin district","Urban waste water treatment plants: number and capacity, influents,
+effluents and sewage sludge; results by province and river basin district","2016-04-13T06:30:00"
+"70262ENG","Land use; all categories, municipalities","Traffic area, Built up area, Forest, Natural area, Water
+Netherlands, Municipalities","2016-02-25T05:30:00"
+"37105ENG","Land use; main categories; regional, 1900 onwards","Traffic area, Built up area, Forest, Natural area, Water
+Netherlands and Provinces","2016-02-25T05:30:00"
+"37422eng","Birth; key figures","Key figures on birth by sex, birth order or marital status of the
+mother. Including figures on stillborn children and multiple births","2016-06-30T02:00:00"
+"37979eng","Mortality; key figures","Mortality: key figures by sex. Including figures on
+infant mortality, perinatal mortality and life expectancy at birth","2016-08-08T02:00:00"
+"37772eng","Marriages and partnership registrations; key figures","Marriages between partners of the same and opposite sex, partnership
+registrations and marriage partners","2016-06-20T02:00:00"
+"37425eng","Marriage dissolutions; due to divorce and death","Marriage dissolutions due to divorce and death,
+average age","2016-09-15T02:00:00"
+"03742eng","External migration; sex, age, marital status and country of birth","Immigration and emigration and the administrative corrections in
+the Netherlands by country of birth, sex, age and marital status,","2016-06-13T02:00:00"
+"03743eng","Population; sex, age and nationality, 1 January","Population on 1 January by nationality,
+age and sex","2016-01-22T02:00:00"
+"37325eng","Population; sex, age, origin and generation, 1 January","Population in The Netherlands by generation, 
+sex, age, marital status and origin, 1 January","2016-09-15T02:00:00"
+"37296eng","Population; key figures","Population: key figures by sex, marital status, age, foreign background,
+households and population growth","2016-01-22T02:00:00"
+"82905ENG","Households; size, composition, position in the household, 1 January","Households in the Netherlands size and composition
+Persons by position in the household on 1 January","2015-12-09T02:00:00"
+"37556eng","Population, households and population dynamics; from 1899","Population, households, population growth, births, mortality, marriages,
+marriage dissolutions, change of nationality and migration","2016-09-16T02:00:00"
+"7461eng","Population; sex, age and marital status, 1 January 1950-2015","Population in The Netherlands by sex, age and 
+marital status, 1 January","2015-09-11T02:00:00"
+"37259eng","Population dynamics; birth, death and migration per region","Population growth by birth, death and migration,
+per sex and region,","2016-09-07T02:00:00"
+"82683ENG","Key figures of the population forecasts 2014-2060","Population, births, deaths and migration
+Forecastinterval","2014-12-18T09:30:00"
+"37943eng","Population and population dynamics; month, quarter and year","Monthly statistics, size of the Dutch population and births, deaths,
+external migration, marriages, divorces and requests for asylum, ","2016-08-30T02:00:00"
+"80346eng","Consumer prices; average prices of consumer goods since 2000","Average prices of consumer goods like fuels, eating and drinking in cafes
+and restaurants, food products and services","2016-02-29T15:30:00"
+"80345eng","Consumer prices; average prices of food since 1800","Average prices food: beer, bread, butter, cheese, coffee, eggs, margarine
+milk, pork steak, potatoes, rice, stewing steak, sugar and tea","2016-02-29T15:30:00"
+"83132ENG","Consumer prices; contribution and impact, CPI 2015=100","Contribution and impact on the inflation according to CPI 2015 = 100
+Yearly rates, weighting coefficient, contribution and impact","2016-09-08T06:30:00"
+"83134ENG","Consumer prices; contribution and impact, HICP 2015=100","Contribution and impact on the inflation according to HICP 2015 = 100
+Yearly rates, weighting coefficient, contribution and impact","2016-09-08T06:30:00"
+"83131ENG","Consumer prices; price index 2015=100","Consumer price indices. Index figures consumer expenditures 2015 = 100
+Price index, monthly and yearly rates and weightingcoëfficient","2016-09-08T06:30:00"
+"70936eng","Inflation; CPI, since 1963","Inflation since 1963
+.","2016-09-08T06:30:00"
+"83135ENG","Inflation; The Netherlands, Euro area and European Union, HICP 2015=100","Inflation The Netherlands, Euro area and European Union
+according to the harmonised consumer price index 2015 = 100","2016-09-08T06:30:00"
+"83133ENG"," Consumer prices; European harmonised price index 2015=100 (HICP)","European harmonised consumer price indices 2015 = 100, expenditures
+Price index, monthly and yearly rates and weightingcoëfficient","2016-09-08T06:30:00"
+"71905eng","Consumer prices; price index 1900 = 100","Consumer price index
+Year of reference 1900 = 100","2016-02-11T06:30:00"
+"81975ENG","Producer Prices Index; output prices by economic activity SIC2008, 2010=100","Price index number (excluding excise), by sales (domestic and foreign)
+According to activity nomenclature SBI 2008","2016-08-30T06:30:00"
+"81974ENG","Producer Prices Index (PPI); output and import prices by product, 2010=100","Price index numbers (excluding excise) and month and year development
+Market and product according to product nomenclature ProdCom","2016-08-30T06:30:00"
+"72007eng","Pronounced debt restructuring plans; way of ending, type of debtor, region","Pronounced debt restructuring plans; quarterly figures by type of person
+type of ending, age group and province","2016-08-23T02:00:00"
+"80426eng","Ended debt restructuring plans; way of ending, type of debtor and region","Ended debt restructuring plans by type of ending, average duration, 
+type of person and province","2016-08-23T02:00:00"
+"80059eng","Asylum requests; citizenship, from 1975","Historical data; first, subsequent asylum requests and Family members
+Citizenship","2016-01-27T02:00:00"
+"80498eng","Asylum requests; international","Asylum requests
+EU member states and some countries outside the EU","2016-04-01T02:00:00"
+"37167eng","Requests for legal aid and reason request by characteristics","Requests for legal aid and reason make a request for legal aid; 
+sex, age, level of education, socio - economic group","2010-02-03T02:00:00"
+"37615eng","Fire services; assistance, object and activities 1985-2013","Assistances by the fire brigade by object and activities, divided by
+regions, provinces and size of cities","2015-09-30T02:00:00"
+"71482eng","Fire services; employees of regional and municipal fire brigades","Fire brigade employees; professional and voluntary, ranks, education, 
+region","2016-06-14T02:00:00"
+"37441eng","Fire services; fire and assistance reports 1985-2013","Fires reports, assistance reports and false alarm reports 
+Province and size of cities","2015-09-30T02:00:00"
+"37511eng","Fire services; fires, victims and rescues, employees, costs 1985-2013","Fires by cause and object, indoor fires, outdoor fires, victims and 
+rescues, employees, fire equipment, costs","2015-12-23T02:00:00"
+"37340eng","Criminal law; key figures","Key figures criminal law: subdistrict court cases, district court
+cases and settlements under the Mulder Act","2015-12-17T02:00:00"
+"37632eng","Special procedures in criminal cases","Financial compensations to former suspects and pardons.
+Compensations due to wrongful incarceration and costs of being a suspect.","2016-04-18T02:00:00"
+"81799ENG","Imports of new cars and light motor vehicles; turnover, index 2010 = 100","Importers of new cars.
+Turnover: index 2010 = 100, change. ","2016-08-31T02:00:00"
+"81817ENG","Motor vehicles and motorcycles trade; turnover change, index 2010 = 100","Motor vehicles and motorcycles trade. Turnover: index 2010 = 100, change.
+By activity (SIC 2008).","2016-09-08T02:00:00"
+"82893ENG","Retail trade; turnover change internet sales, index 2013 = 100","Internet sales retail trade. Turnover: index 2013 = 100, change.
+By activity (SIC 2008).","2016-09-15T06:30:00"
+"81804ENG","Retail trade; turnover change, index 2010 = 100","Retail trade. Turnover: index 2010 = 100, change.
+By activity (SIC 2008).","2016-09-15T06:30:00"
+"81807ENG","Wholesale trade; turnover change, index 2010=100","Wholesale trade. Turnover: index 2010=100, change.
+By activity (SIC 2008).","2016-08-31T02:00:00"
+"81822ENG","Wholesale trade sector; change of stocks, index 2010=100","Wholesale trade sector. 
+Volume of stocks: index 2010=100, change.","2016-09-16T02:00:00"
+"82439ENG","Accommodation and food serving; turnover development, index 2010 = 100","Accommodation, food; turnover, 2010 = 100
+Naar bedrijfsactiviteit (SBI 2008).","2016-08-31T06:30:00"
+"81435ENG","Index traffic density, 2000=100; on national and provincial roads","Index of traffic density on national and provincial trunk roads 
+by weekdays and working days and by region","2013-04-26T02:00:00"
+"80392ENG","Vehicle kilometres goods vehicles; kilometres, load capacity, territory","Kilometres and average annual kilometres by Dutch and foreign
+lorries and road tractors, by load capacity and age of vehicle","2016-03-15T02:00:00"
+"70071eng","Motor vehicles; general overview per period and technological features","Motor vehicles by age, type of fuel, model, weight of the vehicle
+and by province of residence and age of the owner","2015-08-27T02:00:00"
+"82044ENG","Motor vehicles; type, age class, 1 January","Passenger cars, delivery vans, lorries, road tractors, buses,
+trailers, semi-trailers, motorcycles, vehicle age classes.","2016-06-24T02:00:00"
+"37478eng","Aviation; monthly figures of Dutch airports","Data on flight movements, passengers, cargo and mail
+at Dutch airports","2016-08-24T02:00:00"
+"81821ENG","Transport and storage; turnover change, index 2010=100","Transport and storage. Turnover: index 2010=100, change.
+By activity (SIC 2008).","2016-08-30T02:00:00"
+"80379ENG","Vehicle kilometres goods vehicles; kilometres, vehicle weight, territory","Vehicle kilometres of lorries and road tractors (Dutch and foreign 
+vehicles) by territory, vehicle construction years, gross vehicle weight","2016-03-15T02:00:00"
+"81154eng","Caribbean Netherlands; connections and production of electricity and water","Connections electricity production electricity, water oil transit
+Caribbean Netherlands, Bonaire, Sint-Eustatius, Saba","2016-07-13T02:00:00"
+"82231ENG","Caribbean Netherlands; power cuts","Number of power cuts, length of power cuts
+Caribbean Netherlands, Bonaire, Saba","2016-06-16T02:00:00"
+"82659ENG","Carribean Netherlands, Bonaire; import and export values, SITC","Import, export values and trade balance of Bonaire 
+according to SITC classification.","2016-08-12T15:30:00"
+"82658ENG","Carribean Netherlands; import and export values per island","Import, export values and trade balance of Carribean Netherlands 
+per island (Bonaire, Saba and St. Eustatius).","2016-08-12T15:30:00"
+"82518ENG","Dutch Caribbean; jobs and wages, sex,  age","Jobs and average annual wages of employees
+ broken down by wage category, gender and age","2015-10-02T15:00:00"
+"82519ENG","Dutch Caribbean; jobs and wages, economic activity (SIC2008)","Jobs and average annual wages of employees 
+ broken down by wage category and economic activity (SIC2008) ","2015-10-02T15:00:00"
+"80534ENG","Caribbean Netherlands; population  (1 January) sex, age","Population Dutch Caribbean
+Sex, Age","2015-08-12T02:00:00"
+"80539ENG","Caribbean Netherlands; population growth births, deaths, migration","Population growth of Caribbean Netherlands
+Births, deaths, migration","2016-09-16T02:00:00"
+"81122eng","Caribbean Netherlands; consumer price index (CPI) 2010=100","Consumer price index, Quarter-on-Quarter change, Year-on-year change
+Spending category per Caribbean island","2016-07-13T15:30:00"
+"83396ENG","Caribbean Netherlands, Bonaire; sold dwellings price index 2011=100","Price indices, number sold, changes 
+Periods","2016-02-29T15:30:00"
+"37729eng","Bankruptcies by company characteristics and province, 1993-2011","Bankruptcies by region and company characteristics: legal form, number of
+employees, life time, main activity, regions","2013-10-01T02:00:00"
+"60028eng","Participation in politics","Participation; political favour and voting behaviour, political
+interest and opinions by personal characteristics","2010-02-03T02:00:00"
+"37518eng","Vacancies; SIC`93; private firms and government sectors, 1997-2009","Unfilled vacancies, new vacancies and filled vacancies
+by economic activities (SIC 1993), including government","2010-05-10T09:30:00"
+"37881eng","Daily time use","Daily time use in hours and in % participation
+Time use, gender","2009-07-31T02:00:00"
+"03766eng","Key figures of the population forecasts 2010-2060","Population forecasts: key figures
+Most important key indicators of the population forecasts","2013-07-19T02:00:00"
+"70753eng","Producer Prices (2000 = 100) by ProdCom","Price index numbers including and excluding excise
+according to product nomenclature Prodcom","2009-04-16T02:00:00"
+"70752eng","Producer Prices (2000 = 100) by SBI '93","Price index number including and excluding excise
+According to activity nomenclature SBI'93","2009-04-16T02:00:00"
+"37255ENG","Active fleet of passengercars reference date 1-1-2000","Active fleet of passengercars 1-1-2000. Divided by characteristics;
+type, color, car mark and type by years of construction","2000-11-27T09:13:00"
+"37612ENG","Commercial vehicles on 1-1-2000","Active fleet of Commercial vehicles 1 - 1-2000. Characteristics: model,
+fuel type, class empty weight, loadingcapacity by years of construction","2000-11-27T09:15:00"
+"37112ENG","Number of motorcycles on 1-1-2000","Active fleet of motorcycles 1 - 1-2000. Divided by characteristics;
+type, motor mark by years of construction","2000-11-24T14:05:00"
